@@ -10,11 +10,11 @@ In this stage, it is important to understand what the project is, generally. Thi
 * The aim(s)
 * _add more_
 
-## Project initiation Stage
+## Project Initiation Stage
 In this stage, it is important to ask the client to lay out everything that they want/need for the project. This include:
 * Design
 	* Site functionality i.e. what they want to include in the website, and how they want the site to behave:
-		* How many pages to have (Home, About, etc)
+		[] How many pages to have (Home, About, etc)
 		* For homepage - what they want to have on frontpage i.e. image slider, tag clouds, featured items etc.
 		* 
 * Development
