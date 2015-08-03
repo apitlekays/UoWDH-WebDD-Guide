@@ -9,21 +9,27 @@ In this stage, it is important to understand what the project is, generally. Thi
 * The story behind the project
 * The aim(s)
 * The current development of the database
-* _add more_
+* _add more here_
 
 ## Project Initiation Stage
 In this stage, it is important to ask the client to lay out everything that they want/need for the project. The table below illustrates the division of tasks between designing and developing the project in the initial stage:
 
-Design	|	Development 
+Design	|	Explanation 
 --- | ---
-Colour preferences	| Number of pages required - Homepage, About Us, About Project etc.
-Design preferences	| Functionality - Image slider, Featured image etc.
+Colour preferences	| This can be just one or two colours and we can work on them to produce a range of complementary colours.
+Design preferences	| Vocabulary: Flat, Responsive, Clear, Minimalistic, 
+
+
+Development | Explanation
+---|---
+Number of pages required | Homepage, About Us, About Project etc.
+Functionality | Image slider, Featured image etc.
 
 
 
-* Design
-	* Site functionality i.e. what they want to include in the website, and how they want the site to behave:
-		* [ ] How many pages to have (Home, About, etc)
-		* [ ] For homepage - what they want to have on frontpage i.e. image slider, tag clouds, featured items etc.
-		* [ ] 
-* Development
+
+
+
+
+## Links to Resources
+_add more here_
