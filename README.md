@@ -15,6 +15,7 @@ In this stage, it is important to understand what the project is, generally. Thi
 In this stage, it is important to ask the client to lay out everything that they want/need for the project. The table below illustrates the division of tasks between designing and developing the project in the initial stage:
 
 Design	|	Development 
+--- | ---
 Colour preferences	| Number of pages required - Homepage, About Us, About Project etc.
 Design preferences	| Functionality - Image slider, Featured image etc.
 
