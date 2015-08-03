@@ -32,4 +32,4 @@ Functionality | Image slider, Featured image etc.
 
 
 ## Links to Resources
-_add more here_
+* Adobe Kuler - Generating Colour Scheme (https://color.adobe.com)
