@@ -42,7 +42,7 @@ During this stage, there should be no interruption/request from client. The web 
 * Preparing the local development environment with appropriate software requirement (e.g. Omeka)
 * Bootstrapping the design into website (responsive if needed)
 * Hooking backend to frontend
-* Test 
+* Test layout (CSS)
 
 
 ## Step 5: Implementation Stage
@@ -72,6 +72,11 @@ Below are some of the resources that I found useful when working on a project:
 * TweeCool - Custom Twitter integration client (http://www.tweecool.com/)
 * Spritecow - CSS generator for spritesheet (http://www.spritecow.com/)
 * CALLtoIDEA - Design inspiration (http://www.calltoidea.com/)
+
+
+## Omeka Specific Resources
+Below are links to resources specific for Omeka Development.
+* Outputting images attached to an item into a listview (http://omeka.org/forums/topic/output-file-for-itemimages-in-a-list)
 
 
 
