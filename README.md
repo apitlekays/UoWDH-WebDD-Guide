@@ -17,7 +17,7 @@ In this stage, it is important to ask the client to lay out everything that they
 Design	|	Explanation 
 --- | ---
 Colour preferences	| This can be just one or two colours and we can work on them to produce a range of complementary colours.
-Design preferences	| Vocabulary: Flat, Clear, Minimalistic, 
+Design preferences	| Vocabulary: Flat, Clean, Minimalistic, 
 Design user flow | Create a scenario on how client wants users to interact with the website.
 
 
@@ -26,7 +26,7 @@ Development | Explanation
 Number of pages | Homepage, About Us, About Project etc.
 Functionality | Image slider, Featured image, Opt-in button(s).
 Website Analytics | Google analytics required?
-Responsive Site | Website needed to be adaptable to any viewport size (from large screens to mobile screens).
+Responsive Site | Website needed to be adaptable to any viewport size (from large screens to mobile screens).	
 
 ## Step 3: Design Iteration Stage
 In this stage, web designer needs to start wireframing the website, taking what has been discussed earlier into account. Communication with client about progress is essential on this stage. Send out latest design iteration to clients as soon as possible, to elicit response, make changes, and push the latest iteration back to the client. This needs to be done many times until the client is satisfied with the website. In short, these are the process that needs to be done at this stage:
@@ -78,6 +78,17 @@ Below are some of the resources that I found useful when working on a project:
 Below are links to resources specific for Omeka Development.
 * Outputting images attached to an item into a listview (http://omeka.org/forums/topic/output-file-for-itemimages-in-a-list)
 
+## Useful glossary of web development terminologies
+### A
+* Accessibility - design for colour-blind safe, screen-reader, hearing-impaired users
+* Above/Below-The-Fold - design decision on whether or not to put informations within the first frame of the browser's width + height. Might want to consider this view (http://buildinternet.com/2008/12/below-the-fold-why-scrolling-isnt-a-bad-thing/) when facing clients with this preference.
+### D
+* Domain - the URL thingamajig
+### F
+* Favicon - Icon to represent the website on the tabs of browsers (We need to consider this too in future projects!).
+### R
+* Responsive Design - Design adaptable to any screen size/width
+* ...more to come.
 
 
 
