@@ -78,7 +78,7 @@ Below are some of the resources that I found useful when working on a project:
 Below are links to resources specific for Omeka Development.
 * Outputting images attached to an item into a listview (http://omeka.org/forums/topic/output-file-for-itemimages-in-a-list)
 
-## Useful glossary of web development terminologies
+## Useful terminologies
 ### A
 * Accessibility - design for colour-blind safe, screen-reader, hearing-impaired users
 * Above/Below-The-Fold - design decision on whether or not to put informations within the first frame of the browser's width + height. Might want to consider this view (http://buildinternet.com/2008/12/below-the-fold-why-scrolling-isnt-a-bad-thing/) when facing clients with this preference.
