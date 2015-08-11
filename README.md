@@ -82,10 +82,13 @@ Below are links to resources specific for Omeka Development.
 ### A
 * Accessibility - design for colour-blind safe, screen-reader, hearing-impaired users
 * Above/Below-The-Fold - design decision on whether or not to put informations within the first frame of the browser's width + height. Might want to consider this view (http://buildinternet.com/2008/12/below-the-fold-why-scrolling-isnt-a-bad-thing/) when facing clients with this preference.
+
 ### D
 * Domain - the URL thingamajig
+
 ### F
 * Favicon - Icon to represent the website on the tabs of browsers (We need to consider this too in future projects!).
+
 ### R
 * Responsive Design - Design adaptable to any screen size/width
 * ...more to come.
