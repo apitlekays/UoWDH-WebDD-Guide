@@ -28,7 +28,7 @@ Functionality | Image slider, Featured image, Opt-in button(s).
 Website Analytics | Google analytics required?
 Responsive Site | Website needed to be adaptable to any viewport size (from large screens to mobile screens).
 
-#### Needs Analysis	Form
+#### Needs Analysis	Questions
 This form will consists of questions that will outline (act as a contract?) the project. Things to outline:
 * What your data look like? What to show, and what not? What do you want people to see?
 * _add more here_
