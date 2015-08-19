@@ -77,6 +77,7 @@ Below are some of the resources that I found useful when working on a project:
 * TweeCool - Custom Twitter integration client (http://www.tweecool.com/)
 * Spritecow - CSS generator for spritesheet (http://www.spritecow.com/)
 * CALLtoIDEA - Design inspiration (http://www.calltoidea.com/)
+* Adam Crymble's Article - Does your historical collection need a database-driven website? (http://www.digitalhumanities.org/dhq/vol/9/1/000206/000206.html)
 
 
 ## Omeka Specific Resources
