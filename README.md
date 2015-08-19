@@ -26,7 +26,12 @@ Development | Explanation
 Number of pages | Homepage, About Us, About Project etc.
 Functionality | Image slider, Featured image, Opt-in button(s).
 Website Analytics | Google analytics required?
-Responsive Site | Website needed to be adaptable to any viewport size (from large screens to mobile screens).	
+Responsive Site | Website needed to be adaptable to any viewport size (from large screens to mobile screens).
+
+#### Needs Analysis	Form
+This form will consists of questions that will outline (act as a contract?) the project. Things to outline:
+* What your data look like? What to show, and what not? What do you want people to see?
+* _add more here_
 
 ## Step 3: Design Iteration Stage
 In this stage, web designer needs to start wireframing the website, taking what has been discussed earlier into account. Communication with client about progress is essential on this stage. Send out latest design iteration to clients as soon as possible, to elicit response, make changes, and push the latest iteration back to the client. This needs to be done many times until the client is satisfied with the website. In short, these are the process that needs to be done at this stage:
